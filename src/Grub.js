@@ -6,9 +6,10 @@ class Grub {
   }
 
   eat() {
-    return 'The grub is eating ${this.food}';
+    return 'Mmmmmmmmm jelly';
   }
 }
 
 module.exports = Grub;
+
 
